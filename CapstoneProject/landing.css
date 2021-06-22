@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: cornsilk;
+    background-color: #011607;
+    text-align: center;
+    border: 40px solid #4caa58;
+    border-top: 0px;
+    margin: 0px;
+    
+}
+h1{
+    color: greenyellow;
+    
+}
+h2{
+    margin-bottom: 3%;
+}
+
+p{
+    color: cornsilk;
+    padding-top: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+
+.userinput{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#sub{
+    border-radius: 25px;
+    background-color: #4caa58;
+    height: 60px;
+    width: 150px;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+
+}

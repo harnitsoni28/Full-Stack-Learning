@@ -1,0 +1,42 @@
+h1{
+    color: darkcyan;
+    text-align: center;
+}
+
+.art{
+    margin: auto;
+}
+
+
+
+#one{
+    background-color:#754668 ;
+    height: 800px;
+    width: 2000px;
+
+}
+#two{
+    background-color:#587D71 ;
+    height: 800px;
+    width: 2000px;
+}
+#three{
+    background-color:#4DAA57 ;
+    height: 800px;
+    width: 2000px;
+}
+#four{
+    background-color:#B5DDA4 ;
+    height: 800px;
+    width: 2000px;
+}
+#five{
+    background-color:#F9ECCC ;
+    height: 800px;
+    width: 2000px;
+}
+
+
+
+
+
